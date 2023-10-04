@@ -4,4 +4,4 @@
 
 <h3>Below is the architecture used: </h3>
 
-![Alt text](architecture.png)
+![Alt text](screenshots/architecture.png)
